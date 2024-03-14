@@ -33,3 +33,12 @@ Throughout the analysis, the goal was to uncover valuable insights and patterns 
 To view the Jupyter Notebook containing the code and outputs for this project, please refer to [data_analysis.ipynb](data_analysis.ipynb) in this repository.
 
 For any inquiries or feedback, feel free to reach out.
+
+
+## 🛠 Skills
+- Data Import and Handling
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing Techniques
+- Data Visualization
+- Communication and Documentation
+
